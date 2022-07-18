@@ -23,7 +23,7 @@
 
 ##  Project Links
 YouTube video Demo:
-
+https://youtu.be/lX3NP7roCxs
 
 GitHub project:
 https://github.com/Israel2800/orm-e-commerce-challenge
