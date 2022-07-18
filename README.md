@@ -29,7 +29,7 @@ GitHub project:
 https://github.com/Israel2800/orm-e-commerce-challenge
 
 ## Screenshots-Demo
-![Screenshot of the project testing with Insomnia.](Images/screenshot-1.png)
+![Screenshot of the project testing with Insomnia.](images/screenshot-1.png)
 
 ## Project Objective
 Create a back end for an e-commerce website that allows the company to add, upgrade and delete specific information they decide to use, making them more competitive with other e-commerce companies.
