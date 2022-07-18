@@ -29,7 +29,15 @@ GitHub project:
 https://github.com/Israel2800/orm-e-commerce-challenge
 
 ## Screenshots-Demo
-![Screenshot of the project testing with Insomnia.](images/screenshot-1.png)
+Testing GET method with Insomnia
+![Screenshot of the project testing GET method with Insomnia.](images/screenshot-1.png)
+Testing POST method with Insomnia
+![Screenshot of the project testing POST method with Insomnia.](images/screenshot-2.png)
+Testing PUT method with Insomnia
+![Screenshot of the project testing PUT method with Insomnia.](images/screenshot-3.png)
+Testing DELETE method with Insomnia
+![Screenshot of the project testing DELETE method with Insomnia.](images/screenshot-4.png)
+
 
 ## Project Objective
 Create a back end for an e-commerce website that allows the company to add, upgrade and delete specific information they decide to use, making them more competitive with other e-commerce companies.
