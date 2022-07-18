@@ -43,7 +43,7 @@ Testing DELETE method with Insomnia
 Create a back end for an e-commerce website that allows the company to add, upgrade and delete specific information they decide to use, making them more competitive with other e-commerce companies.
 
 ## User Story
-AS A manager at an internet retail company, I WANT a back end for my e-commerce website that uses the latest technologies, SO THAT my company can compete with other e-commerce companies
+AS A manager at an internet retail company, I WANT a back end for my e-commerce website that uses the latest technologies, SO THAT my company can compete with other e-commerce companies.
 
 ## Technologies 
 ```
