@@ -29,6 +29,7 @@ GitHub project:
 https://github.com/Israel2800/orm-e-commerce-challenge
 
 ## Screenshots-Demo
+
 Testing GET method with Insomnia
 ![Screenshot of the project testing GET method with Insomnia.](images/screenshot-1.png)
 Testing POST method with Insomnia
