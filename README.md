@@ -26,7 +26,7 @@ YouTube video Demo:
 https://youtu.be/jCQ82QOkkbE
 
 GitHub project:
-https://github.com/Israel2800/orm-e-commerce-challenge
+https://github.com/Israel2800/orm-e-commerce-backend
 
 ## Screenshots-Demo
 
